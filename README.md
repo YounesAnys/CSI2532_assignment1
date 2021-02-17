@@ -25,3 +25,5 @@ c)
 ![image](assets/A1c.png)
 
 ## A2 [30 points]: Conception du système
+
+![image](assets/A2.png)
