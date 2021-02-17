@@ -11,11 +11,15 @@
 
 ## Partie A [60 points]: Modèles E-R
 ## A1 [15 points]: Relations, cardinalité et participation
+
 a)
+
 ![image](assets/A1a.png)
 
 b)
+
 ![image](assets/A1b.png)
 
 c)
+
 ![image](assets/A1c.png)
