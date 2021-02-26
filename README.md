@@ -34,5 +34,5 @@ a)
 ![image](assets/a.jpg)
 
 b)
-![image](assets/jpg)
+![image](assets/b.jpg)
 
