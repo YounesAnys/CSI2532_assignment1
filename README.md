@@ -31,8 +31,8 @@ c)
 ##  A3 [15 points]: Algèbre relationnelle
 
 a) 
-![image](assets/a.png)
+![image](assets/a.jpg)
 
 b)
-![image](assets/b.png)
+![image](assets/jpg)
 
