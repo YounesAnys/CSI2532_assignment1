@@ -29,3 +29,10 @@ c)
 ![image](assets/A2.png)
 
 ##  A3 [15 points]: Algèbre relationnelle
+
+a) 
+![image](assets/a.png)
+
+b)
+![image](assets/b.png)
+
