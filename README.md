@@ -25,3 +25,7 @@ c)
 ![image](assets/A1c.png)
 
 ## A2 [30 points]: Conception du système
+
+![image](assets/A2.png)
+
+##  A3 [15 points]: Algèbre relationnelle
